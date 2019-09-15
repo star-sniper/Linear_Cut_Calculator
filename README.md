@@ -22,9 +22,10 @@ Non-Trivial:
 
 Now a little bit about the application:
 
-Features: 1) Lets you import Lengths and Quantities of cut required from Excel sheet!
-          2) Spits out a PDF of instructions that you need to follow to use least number of rods.
-          3) Lets you enter "SAW WIDTH". In mills, the saw blade does the cutting and with every cut, a part of steel is lost.
+Features:
+1) Lets you import Lengths and Quantities of cut required from Excel sheet!
+2) Spits out a PDF of instructions that you need to follow to use least number of rods.
+3) Lets you enter "SAW WIDTH". In mills, the saw blade does the cutting and with every cut, a part of steel is lost.
 
 Running Instructions: There are two folders in the repository-
                       1) Application - This has the .exe of the application with a config file. Please copy both files to the
