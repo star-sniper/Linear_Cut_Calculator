@@ -1,0 +1,4 @@
+
+Built using Visual Studio 2k17. 
+You might need SAP Crystal Report for Visual Studio installed! The version I'm using is : 13.0.21.2533
+Simply run the .SLN on Visual Studio!
